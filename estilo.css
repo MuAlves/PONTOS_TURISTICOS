@@ -1,0 +1,15 @@
+.titulo {background-color: black;color: white; margin-bottom: 50px;border-radius: 30px 30px 30px 30px}
+
+.cx1{width: 350px;height: 420px;border: 2px solid #ccc;border-radius: 30px 30px 30px 30px;background: #fff;float: left;margin-left: 14%;margin-top: 50px;}
+        
+.cx2 {width: 350px;height: 420px;border: 2px solid #ccc;border-radius: 30px 30px 30px 30px;background: #fff;float: left;margin-left: 1%;margin-top: 50px;}
+        
+.cx3{width: 350px;height: 420px;border: 2px solid #ccc;border-radius: 30px 30px 30px 30px;background: #fff;float: left;margin-left: 1%;margin-top: 50px;}
+
+img{width: 250px;height: 120px;margin: 10px;}
+        
+hr {height: 2px;color: #000;background-color: #000;margin-top: 0px;margin-left: 8px;margin-right: 8px;}
+        
+p {margin-left: 8px;font-size: 10pt;margin-top: 25px;}
+
+figcaption{text-align: center;}
