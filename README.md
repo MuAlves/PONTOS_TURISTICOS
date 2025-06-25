@@ -1,44 +1,63 @@
 # PONTOS_TURÍSTICOS
 
-🌍 Exercício 1 – Criação de Página com 3 Pontos Turísticos (HTML + CSS)
-Aluno: [Seu Nome] — RGM: [Seu RGM]
-(As informações acima devem estar visíveis no cabeçalho, ao lado do título do exercício)
+---
 
-🏛️ 1. Conteúdo da Página
-Criar uma página HTML apresentando 3 pontos turísticos diferentes (ex: Cristo Redentor, Cataratas do Iguaçu, Pelourinho etc.).
+## 🌍 Exercício 1 – Criação de Página com 3 Pontos Turísticos (HTML + CSS)
 
-Para cada ponto turístico, incluir:
+**Aluno:** [Seu Nome] — **RGM:** [Seu RGM]
 
-Nome do local
+*Obs.: O nome e RGM devem estar visíveis no cabeçalho ao lado do título do exercício.*
 
-Descrição curta
+---
 
-Imagem ilustrativa
+### 🏛️ 1. Conteúdo da Página
 
-A imagem deve estar dentro de um link que direcione para a página oficial da prefeitura ou de turismo do local.
+Desenvolver uma página HTML que apresente 3 pontos turísticos diferentes, tais como:
 
-🔖 2. Requisitos Técnicos
-Uso obrigatório de tags semânticas:
+- Cristo Redentor  
+- Cataratas do Iguaçu  
+- Pelourinho  
+- (ou outros de sua escolha)
 
-Ex: <header>, <main>, <section>, <article>, <footer>, etc.
+Para cada ponto turístico, deve conter:
 
-Cabeçalho (header):
+- Nome do local  
+- Descrição curta  
+- Imagem ilustrativa  
 
-Deve conter o texto "Exercício 1" + seu nome completo e RGM ao lado.
+**Importante:** A imagem deve estar envolvida em um link que redirecione para a página oficial da prefeitura ou do turismo do local.
 
-Container principal:
+---
 
-Definir largura fixa de 960px, centralizado na tela com margin: 0 auto;.
+### 🔖 2. Requisitos Técnicos
 
-🎨 3. Estilização (CSS)
-Criar um arquivo CSS para aplicar estilos gerais à página.
+- Utilizar obrigatoriamente tags semânticas do HTML5, como:  
+  `<header>`, `<main>`, `<section>`, `<article>`, `<footer>`, entre outras.  
 
-Estilizar:
+- O cabeçalho (`<header>`) deve conter:  
+  - O texto **"Exercício 1"**  
+  - Seu nome completo e RGM ao lado do título.  
 
-O container principal
+- Definir um container principal com:  
+  - Largura fixa de 960px  
+  - Centralizado horizontalmente na tela (usar `margin: 0 auto;`)
 
-As imagens (bordas, margens, tamanhos se necessário)
+---
 
-Os links (ex: ao passar o mouse)
+### 🎨 3. Estilização (CSS)
 
-O layout geral para boa apresentação
+Criar um arquivo CSS externo para aplicar os seguintes estilos:
+
+- Container principal: definir largura, centralização e padding.  
+- Imagens: aplicar bordas, margens e dimensionamento conforme necessário.  
+- Links: adicionar efeitos visuais (ex: alteração de cor ou sublinhado ao passar o mouse).  
+- Layout geral: garantir boa apresentação, legibilidade e espaçamento adequado.
+
+---
+
+## Desenvolvido por  
+**Murilo Alves**
+
+---
+
+
